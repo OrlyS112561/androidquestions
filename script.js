@@ -305,16 +305,6 @@ const questions = [
         answer: "str1 + str2"
     },
     {
-        question: "What is the correct way to check if a string is empty in Java?",
-        options: [
-        'str.equals("")',
-        "str.isEmpty()",
-        "str.length() == 0",
-        "All of the above"
-        ],
-        answer: "All of the above"
-    },
-    {
         question: "In Android development, what does the term 'APK' stand for?",
         options: ["Android Package Kit",
          " Application Package Kit", 
