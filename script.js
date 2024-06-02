@@ -307,7 +307,7 @@ const questions = [
     {
         question: "What is the correct way to check if a string is empty in Java?",
         options: [
-        "str.equals("")",
+        'str.equals("")',
         "str.isEmpty()",
         "str.length() == 0",
         "All of the above"
